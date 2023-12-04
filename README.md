@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Shaw Bin! 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" ></h2>
-Backend Engineer at <a href="https://www.circles.life/sg/">Circles.Life</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em>
+Backend Engineer at <a href="https://www.circles.life/sg/">Circles.Life</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 
 I'm a results-driven software engineer passionate about building robust and scalable tech systems. With 2 years of hands-on experience, I've had the privilege of honing my skills at Circles Life, where I contributed to the development of large-scale solutions.
