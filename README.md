@@ -19,7 +19,7 @@ Backend Engineer at <a href="https://www.circles.life/sg/">Circles.Life</a><img 
 </em>
 
 
-I'm a results-driven software engineer passionate about building robust and scalable tech systems. With 2 years of hands-on experience, I've fine-tuned my skills at Circles Life, where I contributed to the development of large-scale solutions.
+I'm a results-driven software engineer passionate about building robust and scalable tech systems. With 2 years of hands-on experience, I've had the privilege of honing my skills at Circles Life, where I contributed to the development of large-scale solutions.
 
 [![Linkedin: Shaw Bin](https://img.shields.io/badge/-shawbin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawbin/)](https://www.linkedin.com/in/nyangshawbin/)
 [![GitHub ShawBin](https://img.shields.io/github/followers/shawbin?label=follow&style=social)](https://github.com/nsoybean)
