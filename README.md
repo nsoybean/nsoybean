@@ -51,6 +51,6 @@ If you're a recruiter, agency, or fellow developer with a shared passion for inn
   - AWS Solution Architect Certification
 - 📽️ Projects: 
   - [Linkyt](https://github.com/nsoybean/Linkyt): Web app to elevate web experience. Bookmarking + notes.
-  - [ChatMind](https://github.com/nsoybean/chatbot-ui): Custom chatbot.
+  - [Marketing Chatbot](https://github.com/nsoybean/chatbot-ui): Custom chatbot.
 - 📫 How to reach me: 
   - email: nyangshawbin@gmail.com
