@@ -34,8 +34,9 @@ As a software engineer, I've driven results in building robust tech systems. At 
 const shawbin = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Golang, Python, C++, SQL, Pyspark],
-  tech: [AWS, NodeJs, MongoDB, Express, RabbitMQ, Snowflake, PostgreSQL, Airflow, React, Git ]
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  tech: [AWS, GCP, NodeJs, MongoDB, Express, RabbitMQ, Snowflake, PostgreSQL, Airflow, React, Git ]
+  architecture: ["microservices", "event-driven", "domain driven design"]
+  interest: ["system design"]
 }
 ```
 
@@ -50,7 +51,6 @@ If you're a recruiter, agency, or fellow developer with a shared passion for inn
 - 🌱 I’m currently learning
   - AWS Solution Architect Certification
 - 📽️ Projects: 
-  - [Linkyt](https://github.com/nsoybean/Linkyt): Web app to elevate web experience. Bookmarking + notes.
-  - [Marketing Chatbot](https://github.com/nsoybean/chatbot-ui): Custom chatbot.
+  - [Yetti](https://yetti.vercel.app): Link management platform to keep links organised and accessible.
 - 📫 How to reach me: 
   - email: nyangshawbin@gmail.com
